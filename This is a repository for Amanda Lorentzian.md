@@ -1,14 +1,14 @@
-#About Amanda
+# About Amanda
 
 This repo is an introduction to myself as part of a homework assignment for [Stat545](http://stat545.com/)
 
-##Why am I taking this course?
+## Why am I taking this course?
 I have absolutely no programming exerpience, so that is one main reason I'm taking the course. Why I think I need to know R:
 1. I work with large data sets that I'm currently having a difficult time analyzing myself
 2. I like the versatility of the graphing features
 3. My supervisor  **loves** R. 
 
-##My Life before this course
+## My life before this course
 
 I moved here from sunny san deigo 1 year ago
 ![Alt text](https://mbjprotocol.com/wp-content/uploads/2016/07/san-diego.png)
